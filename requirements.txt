@@ -1,0 +1,5 @@
+pynest-api==0.3.0
+asyncpg==0.29.0
+greenlet==3.1.0
+azure_ad_verify_token==0.4.0
+PyJWT==2.9.0
